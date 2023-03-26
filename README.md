@@ -1,0 +1,2 @@
+# mysite
+projeto em django
